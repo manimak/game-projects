@@ -1,0 +1,25 @@
+Mani Makaremi priject2 4/15/2018
+1.Treasure Detection:1) the npagent detect the treasure if it is in 4000 pixel area.
+	2)at the beginning npagent starts with a random waypoint
+	3)npagent stopes it all treasure are tagged
+	4)with hitting “N” it turn to a treasure and comeback
+	5)with pressing I you can see the player and npagent scores
+	6)npagent is collidable
+2.Obstacle avoidance:1)I used bounding sphere for Obstacle avoidance.
+	2)FSM diagram is 
+		if right sensor is on turn right 0.1f
+		if left sensor is on left right 0.1f
+	3)sensors will change to invisible with "z" and visible this pressing "z" again.
+	4)I made a class sensor with a sphere model for the sensors and any obstacle that goes to 450 pixel near the sensors npagent will turn with the FSM diagram.
+		and we can turn the sensors off with changing the isCollidable to false in sensor class.
+	5)I use the npagent forward vector to add to the npanget position with a multiplayer to be in front of the npagent.
+	6)for the right sensor i added the npagent's right vector with a multiplayer to the sensors position.
+	7)left sensor is the same as right sensor but using the right vector of np agent.
+	
+3.flocking: 1)I used the same algorithm in the slides and I have 4 flocking level and we can change it with "p" and it shows the percentage in "I" section.
+	2)I made the flocking in the player class and I used position of the player for flocking.
+	3)I used dogs positions to make them to hit each other.
+	4)with more level of flocking i used less random force for the doges and more steps to the players position.
+	5)and if doges be close to each other they with go to opposite direction.
+
+

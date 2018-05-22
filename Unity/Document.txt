@@ -1,0 +1,3 @@
+Mani Makaremi
+restart with "r"
+quit with "Esc"

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Project.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="465project5.VC.db" />
+    <None Include="warbirdSimulation\Duo.tri" />
+    <None Include="warbirdSimulation\Missile.tri" />
+    <None Include="warbirdSimulation\Missilebase.tri" />
+    <None Include="warbirdSimulation\phase3Fragment.glsl" />
+    <None Include="warbirdSimulation\phase3Vertex.glsl" />
+    <None Include="warbirdSimulation\Primus.tri" />
+    <None Include="warbirdSimulation\Ruber.tri" />
+    <None Include="warbirdSimulation\Secundus.tri" />
+    <None Include="warbirdSimulation\simpleFragment.glsl" />
+    <None Include="warbirdSimulation\simpleVertex.glsl" />
+    <None Include="warbirdSimulation\skybox.raw" />
+    <None Include="warbirdSimulation\Unum.tri" />
+    <None Include="warbirdSimulation\Warbird.tri" />
+    <None Include="Ruber.tri" />
+    <None Include="Secundus.tri" />
+    <None Include="simpleVertex.glsl" />
+    <None Include="simpleFragment.glsl" />
+    <None Include="skybox.raw" />
+    <None Include="Unum.tri" />
+    <None Include="Warbird.tri" />
+    <None Include="phase3Vertex.glsl" />
+    <None Include="Primus.tri" />
+    <None Include="phase3Fragment.glsl" />
+    <None Include="Missilebase.tri" />
+    <None Include="Missile.tri" />
+    <None Include="Duo.tri" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="warbirdSimulation\Skybox Images\skybox.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

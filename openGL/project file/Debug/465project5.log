@@ -1,0 +1,21 @@
+﻿  Project.cpp
+  GLM: GLM_MESSAGES is deprecated, use GLM_FORCE_MESSAGES instead
+  GLM: Windows platform detected
+  GLM: version 0.9.8.5
+  GLM: Visual C++ compiler detected
+  GLM: 32 bits model
+  GLM: Platform independent code
+  GLM: C++0x
+  GLM: Language extensions enabled
+  GLM: Swizzling operators disabled, #define GLM_SWIZZLE to enable swizzle operators
+  GLM: Depth clip space: negative one to one
+  GLM: Coordinate system: right handed
+  GLM: .length() returns glm::length_t, a typedef of int following the GLSL specification
+  GLM: Core library included
+  GLM: GLM_GTC_constants extension included
+  GLM: GLM_GTC_matrix_transform extension included
+  GLM: GLM_GTC_quaternion extension included
+  GLM: GLM_GTC_type_ptr extension included
+c:\users\makaremi\documents\visual studio 2015\projects\465project5\project.cpp(416): warning C4715: 'cameraSwap': not all control paths return a value
+  465project5.vcxproj -> C:\Users\makaremi\Documents\Visual Studio 2015\Projects\465project5\Debug\465project5.exe
+  465project5.vcxproj -> C:\Users\makaremi\Documents\Visual Studio 2015\Projects\465project5\Debug\465project5.pdb (Partial PDB)

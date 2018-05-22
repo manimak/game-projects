@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{185AA57A-871D-40CB-9BC8-E9FFA254A2D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestGame</RootNamespace>
+    <AssemblyName>TestGame</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>DesktopGL</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;LINUX</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;LINUX</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Content\SourceFiles\Agent.cs" />
+    <Compile Include="Content\SourceFiles\Camera.cs" />
+    <Compile Include="Content\SourceFiles\TerrainMap.cs" />
+    <Compile Include="Content\SourceFiles\Treasures.cs" />
+    <Compile Include="Content\SourceFiles\Cloud.cs" />
+    <Compile Include="Content\SourceFiles\IndexVertexBuffers.cs" />
+    <Compile Include="Content\SourceFiles\Inspector.cs" />
+    <Compile Include="Content\SourceFiles\Model3D.cs" />
+    <Compile Include="Content\SourceFiles\MovableModel3D.cs" />
+    <Compile Include="Content\SourceFiles\NavNode.cs" />
+    <Compile Include="Content\SourceFiles\NPAgent.cs" />
+    <Compile Include="Content\SourceFiles\Object3D.cs" />
+    <Compile Include="Content\SourceFiles\Pack.cs" />
+    <Compile Include="Content\SourceFiles\Path.cs" />
+    <Compile Include="Content\SourceFiles\Player.cs" />
+    <Compile Include="Content\SourceFiles\Program.cs" />
+    <Compile Include="Content\SourceFiles\Stage.cs" />
+    <Compile Include="Content\SourceFiles\Terrain.cs" />
+    <Compile Include="Content\SourceFiles\Wall.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Icon.ico" />
+    <EmbeddedResource Include="Icon.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\x86\SDL2.dll">
+      <Link>x86\SDL2.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\x64\SDL2.dll">
+      <Link>x64\SDL2.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\x86\soft_oal.dll">
+      <Link>x86\soft_oal.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\x64\soft_oal.dll">
+      <Link>x64\soft_oal.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\x86\libSDL2-2.0.so.0">
+      <Link>x86\libSDL2-2.0.so.0</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\x64\libSDL2-2.0.so.0">
+      <Link>x64\libSDL2-2.0.so.0</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\x86\libopenal.so.1">
+      <Link>x86\libopenal.so.1</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\x64\libopenal.so.1">
+      <Link>x64\libopenal.so.1</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\libSDL2-2.0.0.dylib">
+      <Link>libSDL2-2.0.0.dylib</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\libopenal.1.dylib">
+      <Link>libopenal.1.dylib</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\MonoGame.Framework.dll.config">
+      <Link>MonoGame.Framework.dll.config</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="app.manifest" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\100x100x100brick.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\100x50x100Marker.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x100x100brick.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x50x100Marker.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\boundingSphereV8.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\cloudV3.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\dogV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\magentaAvatarV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\marble_0.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\redAvatarV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\3ds\templeV3.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\boundingSphereV3.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\boundingSphereV8.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\cloudV3.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\colorTexture.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\Consolas.spritefont" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\Consolas.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\dogV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x100x100brick.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x50x100Marker.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\boundingSphereV8.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\cloudV3.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\dogV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\magentaAvatarV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\marble_0.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\redAvatarV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\fbx\templeV3.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\heightTexture.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\inspectorBackground.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\magentaAvatarV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\marble.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\marble_0.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\redAvatarV6.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\templeV3.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\textures\colorTexture.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\textures\heightTexture.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\textures\inspectorBackground.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\Content\textures\marble.xnb" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1" />
+    <None Include="bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0" />
+    <None Include="Content\3ds\100x100x100brick.3ds" />
+    <None Include="Content\3ds\100x50x100Marker.3ds" />
+    <None Include="Content\3ds\boundingSphereV8.3ds" />
+    <None Include="Content\3ds\cloudV3.3ds" />
+    <None Include="Content\3ds\dogV6.3ds" />
+    <None Include="Content\3ds\magentaAvatarV6.3ds" />
+    <None Include="Content\3ds\redAvatarV6.3ds" />
+    <None Include="Content\3ds\templeV3.3ds" />
+    <None Include="Content\bin\DesktopGL\3ds\100x100x100brick.xnb" />
+    <None Include="Content\bin\DesktopGL\3ds\100x50x100Marker.xnb" />
+    <None Include="Content\bin\DesktopGL\3ds\boundingSphereV8.xnb" />
+    <None Include="Content\bin\DesktopGL\3ds\cloudV3.xnb" />
+    <None Include="Content\bin\DesktopGL\3ds\dogV6.xnb" />
+    <None Include="Content\bin\DesktopGL\3ds\magentaAvatarV6.xnb" />
+    <None Include="Content\bin\DesktopGL\3ds\marble_0.xnb" />
+    <None Include="Content\bin\DesktopGL\3ds\redAvatarV6.xnb" />
+    <None Include="Content\bin\DesktopGL\3ds\templeV3.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\100x100x100brick.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\100x50x100Marker.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\boundingSphereV8.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\cloudV3.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\dogV6.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\magentaAvatarV6.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\marble_0.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\redAvatarV6.xnb" />
+    <None Include="Content\bin\DesktopGL\fbx\templeV3.xnb" />
+    <None Include="Content\bin\DesktopGL\textures\colorTexture.xnb" />
+    <None Include="Content\bin\DesktopGL\textures\heightTexture.xnb" />
+    <None Include="Content\bin\DesktopGL\textures\inspectorBackground.xnb" />
+    <None Include="Content\bin\DesktopGL\textures\marble.xnb" />
+    <None Include="Content\Consolas.spritefont" />
+    <None Include="Content\fbx\100x100x100brick.fbx" />
+    <None Include="Content\fbx\100x50x100Marker.fbx" />
+    <None Include="Content\fbx\boundingSphereV8.fbx" />
+    <None Include="Content\fbx\cloudV3.FBX" />
+    <None Include="Content\fbx\dogV6.fbx" />
+    <None Include="Content\fbx\magentaAvatarV6.fbx" />
+    <None Include="Content\fbx\redAvatarV6.fbx" />
+    <None Include="Content\fbx\templeV3.fbx" />
+    <None Include="Content\obj\DesktopGL\.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\100x100x100brick.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\100x50x100Marker.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\boundingSphereV8.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\cloudV3.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\dogV6.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\magentaAvatarV6.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\marble_0.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\redAvatarV6.mgcontent" />
+    <None Include="Content\obj\DesktopGL\3ds\templeV3.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\100x100x100brick.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\100x50x100Marker.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\boundingSphereV8.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\cloudV3.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\dogV6.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\magentaAvatarV6.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\marble_0.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\redAvatarV6.mgcontent" />
+    <None Include="Content\obj\DesktopGL\fbx\templeV3.mgcontent" />
+    <None Include="Content\obj\DesktopGL\textures\colorTexture.mgcontent" />
+    <None Include="Content\obj\DesktopGL\textures\heightTexture.mgcontent" />
+    <None Include="Content\obj\DesktopGL\textures\inspectorBackground.mgcontent" />
+    <None Include="Content\obj\DesktopGL\textures\marble.mgcontent" />
+    <None Include="Content\xnb\100x100x100brick.xnb" />
+    <None Include="Content\xnb\100x50x100Marker.xnb" />
+    <None Include="Content\xnb\boundingSphereV3.xnb" />
+    <None Include="Content\xnb\boundingSphereV8.xnb" />
+    <None Include="Content\xnb\cloudV3.xnb" />
+    <None Include="Content\xnb\colorTexture.xnb" />
+    <None Include="Content\xnb\Consolas.xnb" />
+    <None Include="Content\xnb\dogV6.xnb" />
+    <None Include="Content\xnb\heightTexture.xnb" />
+    <None Include="Content\xnb\inspectorBackground.xnb" />
+    <None Include="Content\xnb\magentaAvatarV6.xnb" />
+    <None Include="Content\xnb\marble.xnb" />
+    <None Include="Content\xnb\marble_0.xnb" />
+    <None Include="Content\xnb\redAvatarV6.xnb" />
+    <None Include="Content\xnb\templeV3.xnb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll" />
+    <Content Include="bin\DesktopGL\AnyCPU\Debug\TestGame.exe" />
+    <Content Include="bin\DesktopGL\AnyCPU\Debug\TestGame.pdb" />
+    <Content Include="bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll" />
+    <Content Include="bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll" />
+    <Content Include="bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll" />
+    <Content Include="bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll" />
+    <Content Include="Content\3ds\marble.png" />
+    <Content Include="Content\fbx\marble.png" />
+    <Content Include="Content\SDL2.dll" />
+    <Content Include="Content\textures\colorTexture.png" />
+    <Content Include="Content\textures\heightTexture.png" />
+    <Content Include="Content\textures\inspectorBackground.png" />
+    <Content Include="Content\textures\marble.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

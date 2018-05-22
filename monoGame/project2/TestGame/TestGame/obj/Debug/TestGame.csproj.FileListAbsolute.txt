@@ -1,0 +1,257 @@
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.exe
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.pdb
+C:\Users\13mou\source\repos\TestGame\TestGame\obj\Debug\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\13mou\source\repos\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\13mou\source\repos\TestGame\TestGame\obj\Debug\TestGame.pdb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\colorTexture.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\heightTexture.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\inspectorBackground.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\marble.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x100x100brick.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x50x100Marker.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\boundingSphereV8.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\cloudV3.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\dogV6.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\magentaAvatarV6.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\marble_0.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\redAvatarV6.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\templeV3.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x100x100brick.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x50x100Marker.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\boundingSphereV8.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\cloudV3.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\dogV6.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\magentaAvatarV6.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\marble_0.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\redAvatarV6.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\templeV3.xnb
+C:\Users\13mou\source\repos\TestGame\TestGame\obj\Debug\TestGame.csprojResolveAssemblyReference.cache
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\inspectorBackground.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\marble.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\obj\Debug\TestGame.csprojResolveAssemblyReference.cache
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\obj\Debug\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\TestGame (1)\TestGame\TestGame\obj\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\inspectorBackground.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\marble.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\obj\Debug\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\obj\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\model4.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\diamandFlaged.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\diamand.xnb
+C:\Users\manim\OneDrive\Desktop\565\TestGame (1)\TestGame\TestGame\obj\Debug\TestGame.csprojResolveAssemblyReference.cache
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\inspectorBackground.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\marble.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\diamand.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\diamandFlaged.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\model4.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\obj\Debug\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\obj\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\sensor.xnb
+C:\Users\manim\OneDrive\Desktop\565\project1\TestGame\TestGame\obj\Debug\TestGame.csprojResolveAssemblyReference.cache
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\inspectorBackground.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\marble.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\diamand.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\diamandFlaged.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\model4.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\sensor.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\obj\Debug\TestGame.csprojResolveAssemblyReference.cache
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\obj\Debug\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\565\project2\TestGame\TestGame\obj\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\fbx\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\inspectorBackground.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\textures\marble.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x100x100brick.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\100x50x100Marker.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\boundingSphereV8.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\cloudV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\dogV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\magentaAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\marble_0.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\redAvatarV6.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\3ds\templeV3.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\colorTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\diamand.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\diamandFlaged.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\heightTexture.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\model4.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\Content\sensor.xnb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\bin\DesktopGL\AnyCPU\Debug\TestGame.pdb
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\obj\Debug\TestGame.csprojResolveAssemblyReference.cache
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\obj\Debug\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\manim\OneDrive\Desktop\565\project2 Mani Makaremi\project2\TestGame\TestGame\obj\Debug\TestGame.pdb
